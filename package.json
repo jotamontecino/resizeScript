@@ -1,0 +1,16 @@
+{
+  "name": "scriptreziseimg",
+  "version": "1.0.0",
+  "description": "Script pour rezise les images trop grandes et les compresser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "imagemagick": "0.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
